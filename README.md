@@ -1,1 +1,21 @@
-This project focuses on Churn Analysis using Python and Jupyter Notebook. The objective was to predict which customers are likely to stop using a service based on historical data. The process involved data cleaning, handling missing values, and performing exploratory data analysis (EDA) to uncover important patterns and relationships. Meaningful features were created to enhance model performance, and machine learning models such as Logistic Regression and Decision Trees were built and evaluated using metrics like accuracy, precision, recall, and F1-score. Libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn were used throughout the project. The ultimate goal was to provide data-driven insights to help businesses understand and reduce customer churn.
+# 📊 Churn Analysis Project
+
+## Project Overview
+This project focuses on **Churn Analysis** using **Python** and **Jupyter Notebook**. The main objective was to predict which customers are likely to discontinue using a service based on historical data.
+
+## Key Highlights
+- Performed **data cleaning** and **missing value handling** to prepare the dataset.
+- Conducted detailed **Exploratory Data Analysis (EDA)** to uncover meaningful patterns and insights.
+- Created **feature engineering** strategies to boost model performance.
+- Built and evaluated machine learning models, including **Logistic Regression** and **Decision Trees**.
+- Assessed model performance using metrics like **Accuracy**, **Precision**, **Recall**, and **F1-score**.
+
+## Technologies & Tools
+- Python
+- Jupyter Notebook
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+
+## Project Goal
+To develop a predictive model that helps businesses **understand customer behavior** and **reduce churn** by taking proactive, data-driven actions.
